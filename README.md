@@ -112,7 +112,7 @@ To install the development version of rmongodb, it's easiest to use the devtools
     
 We advice using RStudio (www.rstudio.org) for the package development. The RStudio .Rproj file is included in the repository.
 
-### Usefull links
+### Useful links
 * BSON specification: http://bsonspec.org/#/specification
 
 ### Versioning
